@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vaishnavi-pawar
+- 👀 I’m interested in Software Developement
+- 🌱 I’m currently learning C#.NET
+- 💞️ I’m looking to collaborate on JUST NOW
+- 📫 How to reach me "https://www.linkedin.com/in/vaishnavi-pawar-51aa8b227/"
